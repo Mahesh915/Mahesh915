@@ -65,43 +65,6 @@ data, execute trades and manage investment portfolios.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
----
-
-### 💰 Daily Expense Tracker
-
-A web application designed to help users track and manage their
-daily income and expenses.
-
-**Key Features**
-- ➕ Add income and expenses
-- 📊 Expense categorization
-- 🧮 Balance calculation
-- 📜 Transaction history
-- 📱 Responsive interface
-- 🗂️ Organized expense data management
-
-**Tech Stack:** HTML, CSS, JavaScript, Python (Flask), SQLite
-
----
-
-## 🧠 Data Structures & Algorithms
-
-I regularly practice DSA to improve my problem-solving and
-algorithmic thinking skills.
-
-### Topics I'm Working On
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Searching & Sorting
-- Hashing
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
-
----
 
 ## 🏆 Achievements
 
