@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Mahesh Suryawanshi
 
 ### 💻 Java & Full-Stack Developer | B.E. Information Technology Student
@@ -44,7 +42,7 @@ scalable and user-friendly software applications.
 
 ## 🚀 Featured Projects
 
-### 💰 GEM Management System
+### 💰 GFM Management System
 
 A web-based student management system designed to efficiently manage
 student records and administrative operations.
@@ -129,40 +127,4 @@ algorithmic thinking skills.
 - ☕ DSA with Java — Apna College
 - 🤖 Real-World Machine Learning — LET EdTech
 
----
 
-## 📈 What I'm Currently Learning
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── DSA
-
-Full Stack Development
- ├── React.js
- ├── Node.js
- ├── Express.js
- ├── REST APIs
- └── MongoDB
-
-Problem Solving
- ├── DSA
- ├── Competitive Programming
- └── Coding Problems
-
-<!--
-**Mahesh915/Mahesh915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
