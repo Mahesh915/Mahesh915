@@ -20,10 +20,10 @@ scalable and user-friendly software applications.
 - Java , Python
 
 ### 🌐 Web Development
-- HTML,CSS,JavaScript,React.js,Node.jsExpress.js
+- HTML , CSS , JavaScript , React.js , Node.js , Express.js
 
 ### 🗄️ Databases
-- MySQL,MongoDB
+- MySQL , MongoDB
 
 ### 🔧 Tools & Technologies
 - Git , GitHub , REST APIs , SQL
