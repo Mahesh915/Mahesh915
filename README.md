@@ -65,7 +65,7 @@ data, execute trades and manage investment portfolios.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-
+---
 ## 🏆 Achievements
 
 - 🥇 Ranked among the top 3 students in the class with a **9.36 CGPA**
