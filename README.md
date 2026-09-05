@@ -17,26 +17,16 @@ scalable and user-friendly software applications.
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
-- Java
-- Python
+- Java , Python
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
+- HTML,CSS,JavaScript,React.js,Node.jsExpress.js
 
 ### 🗄️ Databases
-- MySQL
-- MongoDB
+- MySQL,MongoDB
 
 ### 🔧 Tools & Technologies
-- Git
-- GitHub
-- REST APIs
-- SQL
+- Git , GitHub , REST APIs , SQL
 
 ---
 
