@@ -61,7 +61,7 @@ data, execute trades and manage investment portfolios.
 - 📜 Transaction history
 - 🔐 Authentication and authorization
 - 👥 Role-based access control
-- ⚡ REST API integration
+- ⚡ REST API integration 
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
