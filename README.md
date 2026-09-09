@@ -6,7 +6,7 @@ I am an Information Technology student passionate about building practical,
 scalable and user-friendly software applications.
 
 - 🎓 B.E. Information Technology — Nutan Maharashtra Institute of Engineering & Technology
-- 📊 CGPA: 9.36
+- 📊 CGPA: 9.39
 - 💻 Interested in Java, Full-Stack Development & Software Engineering
 - 🧠 Currently improving my Data Structures & Algorithms skills
 - 🚀 Building real-world web applications
